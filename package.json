@@ -28,7 +28,7 @@
     },
     "dependencies": {
         "browserify": "^16.2.2",
-        "mqtt": "^1.7.4",
+        "mqtt": "^4.2.7",
         "vue": "^2.6.10",
         "watchify": "^3.11.0"
     },
